@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloLog", "HelloLog\HelloLog.csproj", "{24FE0793-112A-4934-BCA1-5C477E7FF6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FE0793-112A-4934-BCA1-5C477E7FF6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FE0793-112A-4934-BCA1-5C477E7FF6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FE0793-112A-4934-BCA1-5C477E7FF6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FE0793-112A-4934-BCA1-5C477E7FF6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B612D909-9D68-4E78-82AD-486D6B06F73F}
+	EndGlobalSection
+EndGlobal
